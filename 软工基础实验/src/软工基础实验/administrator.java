@@ -5,7 +5,7 @@ import java.awt.event.*;
 //生命游戏
 public class administrator {
     // GUI组件
-    JFrame jf;    // 存放细胞状态
+    JFrame jf;   
     boolean[][] st1;
     // 显示细胞状态
     JPanel[][] jp;
